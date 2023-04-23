@@ -1,4 +1,4 @@
-# Olá, me chamo SeuNomeAqui ! 
+# Olá, me chamo Breno! 
 ## Bem vindo ao meu perfil GitHub 👋
 
 ## Sobre
@@ -11,3 +11,11 @@
 
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+
+## Contatos:
+<a href="https://www.linkedin.com/in/breno-santiago-66b164227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
