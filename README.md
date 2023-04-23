@@ -24,4 +24,4 @@
 ## Contatos:
 <a href="https://www.linkedin.com/in/breno-santiago-66b164227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-![Snake animation](https://github.com/Santlago/Santlago/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Santlago/blob/output/github-contribution-grid-snake.svg)
