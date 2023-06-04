@@ -3,7 +3,7 @@
 
 ## Sobre
 <ul>
-  <li>18 anos</li>
+  <li>19 anos</li>
   <li>Moro em: Poá - SP</li>
   <li>Cursando Análise e Desenvolvimento de Sistemas - FIAP - 1° semestre</li>
   <li>Formado em Informática para a Internet pela ETEC Poá</li>
