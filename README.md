@@ -6,7 +6,7 @@
   <li>19 anos</li>
   <li>Moro em: Poá - SP</li>
   <li>Cursando Análise e Desenvolvimento de Sistemas - FIAP - 2° semestre</li>
-  <li>Formado em Informática para a Internet pela ETEC Poá</li>
+  <li>Formado em Informática para a Internet pela ETEC de Poá</li>
 </ul>
 
 ## Ferramentas e Tecnologias
