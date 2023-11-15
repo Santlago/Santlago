@@ -1,3 +1,4 @@
+![Olá, me chamo Breno!](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient&section=header)
 # Olá, me chamo Breno! 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&width=475&lines=Bem+vindo+ao+meu+perfil+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 
