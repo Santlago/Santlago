@@ -40,9 +40,10 @@
   <h3> Alura Cases 🚀 </h3>
   <p>Projeto desenvolvido utilizando o framework Next.js a partir de um curso da Alura.</p>
 
-  [![Alura Cases](https://img.shields.io/website?label=Clique%20Aqui&style=flat-square&url=https%3A%2F%2Falura-cases-lilac.vercel.app%2F)](https://alura-cases-lilac.vercel.app/){:target="_blank"}
+  [![Alura Cases](https://img.shields.io/website?label=Clique%20Aqui&style=flat-square&url=https%3A%2F%2Falura-cases-lilac.vercel.app%2F)](https://alura-cases-lilac.vercel.app/)
 
-  [Repositório do Projeto](https://github.com/Santlago/AluraCases.git){:target="_blank"}
+  <a href="https://github.com/Santlago/AluraCases.git" target="_blank">Repositório do Projeto</a>
+
 
   <hr/>
 </div>
