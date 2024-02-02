@@ -32,13 +32,21 @@
   
 </p>
 
-## Principais projetos
-<div>
+## Principais Projetos
 
-  <p>Welcome to Alura Cases, where innovation meets excellence! 🚀</p>
+
+<div>
+  <hr/>
+  <h3> Alura Cases 🚀 </h3>
+  <p>Projeto desenvolvido utilizando o framework Next.js a partir de um curso da Alura.</p>
+
+  [![Alura Cases](https://img.shields.io/website?label=Clique%20Aqui&style=flat-square&url=https%3A%2F%2Falura-cases-lilac.vercel.app%2F)](https://alura-cases-lilac.vercel.app/)
   
-  [![Alura Cases](https://img.shields.io/website?label=Visit%20Alura%20Cases&style=for-the-badge&url=https%3A%2F%2Falura-cases-lilac.vercel.app%2F)](https://alura-cases-lilac.vercel.app/)
+  [Repositório do Projeto](https://github.com/Santlago/AluraCases.git)
+  <hr/>
 </div>
+
+
 
 ## Contatos:
 <a href="https://www.linkedin.com/in/breno-santiago-66b164227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
