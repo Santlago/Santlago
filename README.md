@@ -37,6 +37,18 @@
 
 <div>
   <hr/>
+  <h3> HeatWise 🔥 </h3>
+  <p>Projeto desenvolvido em forma de challenge para a FIAP</p>
+
+  [![HeatWise](https://img.shields.io/website?label=Clique%20Aqui&style=flat-square&url=https%3A%2F%2Falura-cases-lilac.vercel.app%2F)](https://heat-wise.vercel.app/)
+  
+  [Repositório do Projeto](https://github.com/Santlago/HeatWise.git)
+
+
+  <hr/>
+</div>
+<div>
+  <hr/>
   <h3> Alura Cases 🚀 </h3>
   <p>Projeto desenvolvido utilizando o framework Next.js a partir de um curso da Alura.</p>
 
