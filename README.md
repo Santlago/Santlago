@@ -38,7 +38,7 @@
 <div>
   <hr/>
   <h3> BlueHope 🐋 </h3>
-  <p>Projeto desenvolvido em forma de challenge para a FIAP</p>
+  <p>Projeto desenvolvido em forma de Global Solution para a FIAP</p>
 
   [![HeatWise](https://img.shields.io/website?label=Clique%20Aqui&style=flat-square&url=https%3A%2F%2Falura-cases-lilac.vercel.app%2F)](https://blue-hope.vercel.app/)
   
