@@ -8,7 +8,7 @@
 <!-- 		<img  align="right" src="https://github.com/Marcos26-tech/Marcos26-tech/blob/main/imagem/world.gif" width="150" /> -->
 		<li>20 anos</li>
 		<li>Moro em: Poá - SP</li>
-		<li>Tecnólogo em Análise e Desenvolvimento de Sistemas</li>
+		<li>Tecnólogo em Análise e Desenvolvimento de Sistemas pela FIAP</li>
 		<li>Técnico de Informática para a Internet pela ETEC de Poá</li>
 	</ul>
 </div>
